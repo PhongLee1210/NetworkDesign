@@ -2,10 +2,10 @@
 ### Quân Y 87 Hospital
 ---
 #### Step 1. Gather Information
-Table 1.1: Business Constraint
-![image](https://user-images.githubusercontent.com/81057831/132111256-791fa88f-5143-4410-862a-943e4c14a0cf.png)
-Table 1.2: Business Application
-![image](https://user-images.githubusercontent.com/81057831/132111321-cda23130-4e9c-4afe-917a-821badccc4fa.png)
+Table 1.1: Business Constraint.
+![image](https://user-images.githubusercontent.com/81057831/132111256-791fa88f-5143-4410-862a-943e4c14a0cf.png).
+Table 1.2: Business Application.
+![image](https://user-images.githubusercontent.com/81057831/132111321-cda23130-4e9c-4afe-917a-821badccc4fa.png).
 **Technical Constraint**
 Ràng buộc:
 •	Hệ thống xác thực
