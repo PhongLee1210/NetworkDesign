@@ -31,19 +31,21 @@ Ràng buộc: <br />
 Rủi ro: Ngoài ra, cần có cơ chế sao lưu để thực hiện sao lưu dữ liệu định kỳ để đối phó với bất kỳ tình huống không mong muốn nào: lỗi hệ thống, tấn công của kẻ xâm nhập, phát tán mã độc,… <br />
 ### Step 3. Plan
 **VLAN** <br />
+
 -	Phòng ban. <br />
 -	Quản trị. <br />
 -	Khách hàng. <br />
 -	Camera. <br />
+
 Table 3.1: **Device Port Planning** <br />
 ![image](https://user-images.githubusercontent.com/81057831/132111500-53a92cea-0e35-4ce1-a2da-dd15fdf759f4.png) <br />
 Table 3.2: **VLAN Subnetting** <br />
 ![image](https://user-images.githubusercontent.com/81057831/132111545-3e7393e1-7a3b-43ac-83b2-f642e369493e.png) <br />
 ### Step 4. Design
 Image 4.1: **Logic Diagram Design** <br />
-![LogicalNew](https://user-images.githubusercontent.com/81057831/132111570-861e966b-7ae3-4a9f-816f-7834f715a452.png) <br />
+![image](https://user-images.githubusercontent.com/81057831/132111632-fca2ae0c-9862-4d86-9c7c-0925456c4de5.png) <br />
 Image 4.2: **Physical Diagram Design** <br />
-![PhysicalNew](https://user-images.githubusercontent.com/81057831/132111576-eadf97c4-045d-4b60-bee8-a50eb6373256.png) <br />
+![image](https://user-images.githubusercontent.com/81057831/132111645-2de6311f-61b4-4f8e-beb7-77cfe6f07162.png) <br />
 Image 4.3: **Physical Layout Design** <br />
 ![Rackdia](https://user-images.githubusercontent.com/81057831/132111579-ad6a3fde-79be-4ea3-80b1-07032c371812.png) <br />
 Image 4.4: **EIGRP Routing Design** <br />
