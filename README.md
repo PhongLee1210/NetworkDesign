@@ -1,4 +1,4 @@
-# align="center" NetWork Design Project
+# <p align="center" >  NetWork Design Project </p>
 ## Quân Y 87 Hospital
 ---
 ### Step 1. Gather Information
