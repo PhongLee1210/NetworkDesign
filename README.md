@@ -29,6 +29,21 @@ Ràng buộc: <br />
 •	Giới hạn băng thông không dây. <br />
 •	Phát hiện hoặc ngăn chặn xâm nhập đối với các hệ thống chứa dữ liệu khách hàng. <br />
 Rủi ro: Ngoài ra, cần có cơ chế sao lưu để thực hiện sao lưu dữ liệu định kỳ để đối phó với bất kỳ tình huống không mong muốn nào: lỗi hệ thống, tấn công của kẻ xâm nhập, phát tán mã độc,… <br />
+### Step 3. Plan
+**VLAN** <br />
+-	Phòng ban. <br />
+-	Quản trị. <br />
+-	Khách hàng. <br />
+-	Camera. <br />
+Table 3.1: **Device Port Planning** <br />
+![image](https://user-images.githubusercontent.com/81057831/132111500-53a92cea-0e35-4ce1-a2da-dd15fdf759f4.png)
+Table 3.2: **VLAN Subnetting** <br />
+![image](https://user-images.githubusercontent.com/81057831/132111545-3e7393e1-7a3b-43ac-83b2-f642e369493e.png)
+### Step 4. Design
+Image 4.1: **Logic Diagram Design** <br />
+
+
+
 
 
 
