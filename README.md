@@ -1,7 +1,7 @@
 # <p align="center" >  NetWork Design Project </p>
 ## Quân Y 87 Hospital
 ### Step 1. Gather Information
-__Yêu cầu__:Bệnh viện Quân y 87 được xây dựng với quy mô của Bệnh viện hạng I tầm cỡ khu vực, có 350 giường, tổng diện tích sàn 34.000m2, có 7 hạng mục công trình chính trong đó có 2 khối nhà (cao 10 tầng) điều trị của các khoa. Bệnh viện được đầu tư các trang thiết bị y tế hiện đại.Hệ thống mạng yêu cầu hỗ trợ được trên 500 bệnh nhân, và trên 100 nhân viên trong bệnh viên. <br />
+__Yêu cầu__: Bệnh viện Quân y 87 được xây dựng với quy mô của Bệnh viện hạng I tầm cỡ khu vực, có 350 giường, tổng diện tích sàn 34.000m2, có 7 hạng mục công trình chính trong đó có 2 khối nhà (cao 10 tầng) điều trị của các khoa. Bệnh viện được đầu tư các trang thiết bị y tế hiện đại.Hệ thống mạng yêu cầu hỗ trợ được trên 500 bệnh nhân, và trên 100 nhân viên trong bệnh viên. <br />
 Vì cơ sở hạ tầng CNTT còn thực hiện hỗ trợ hoạt động quân sự, tập trận , bảo đảm duy trì thông tin liên lạc cho nhân viên với mức độ ưu tiên cao về bảo mật và quyền riêng tư thông tin khách hàng. <br />
 
 __Giả định__: <br />
